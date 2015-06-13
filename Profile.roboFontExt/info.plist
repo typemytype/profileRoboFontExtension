@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>addToMenu</key>
+	<array/>
+	<key>developer</key>
+	<string>Frederik Berlaen</string>
+	<key>developerURL</key>
+	<string>http://typemytype.com</string>
+	<key>html</key>
+	<true/>
+	<key>launchAtStartUp</key>
+	<integer>1</integer>
+	<key>mainScript</key>
+	<string>main.py</string>
+	<key>name</key>
+	<string>RoboFontProfile</string>
+	<key>timeStamp</key>
+	<real>1386600530.4755659</real>
+	<key>version</key>
+	<string>1.0</string>
+	<key>repository</key>
+	<string>typemytype/RoboFontExtensions</string>
+	<key>extensionPath</key>
+	<string>robofontProfile/RoboFontProfile.roboFontExt</string>
+</dict>
+</plist>
