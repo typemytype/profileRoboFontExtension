@@ -24,6 +24,8 @@
 	<dict>
 		<key>repository</key>
 		<string>typemytype/profileRoboFontExtension</string>
+		<key>summary</key>
+		<string>A developer profile tool.</string>
 	</dict>
 </dict>
 </plist>
